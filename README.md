@@ -81,6 +81,6 @@ Content Moderation: Identify authorship in anonymous or deceptive writing.
 
 
 
-Neva Erdogan
+Neva Erdogan, 
 Computer Engineering Student 
 🔗 www.linkedin.com/in/nevaerdogan
